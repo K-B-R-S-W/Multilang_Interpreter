@@ -107,8 +107,6 @@ python main.py
 
 #### 4️⃣ Environment Configuration
 Create a `.env` file in the backend directory:
-```bash
-```
 
 Add your configuration:
 ```env
