@@ -163,14 +163,14 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 <div align="center">
 
----
+
 
 ## 📮 Support
 
-- **📧 Email:** [k.b.ravindusankalpaac@gmail.com](mailto:k.b.ravindusankalpaac@gmail.com)  
-- **🐞 Bug Reports:** [GitHub Issues](https://github.com/K-B-R-S-W/Multilang_Interpreter/issues)  
-- **📚 Documentation:** See the project [Wiki](https://github.com/K-B-R-S-W/Multilang_Interpreter/wiki)  
-- **💭 Discussions:** Join the [GitHub Discussions](https://github.com/K-B-R-S-W/Multilang_Interpreter/discussions)
+**📧 Email:** [k.b.ravindusankalpaac@gmail.com](mailto:k.b.ravindusankalpaac@gmail.com)  
+**🐞 Bug Reports:** [GitHub Issues](https://github.com/K-B-R-S-W/Multilang_Interpreter/issues)  
+**📚 Documentation:** See the project [Wiki](https://github.com/K-B-R-S-W/Multilang_Interpreter/wiki)  
+**💭 Discussions:** Join the [GitHub Discussions](https://github.com/K-B-R-S-W/Multilang_Interpreter/discussions)
 
 ---
 
