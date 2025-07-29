@@ -161,10 +161,6 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ---
 
-<div align="center">
-
-
-
 ## 📮 Support
 
 **📧 Email:** [k.b.ravindusankalpaac@gmail.com](mailto:k.b.ravindusankalpaac@gmail.com)  
@@ -177,5 +173,3 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 ## ⭐ Support This Project
 
 If you find this project helpful, please consider giving it a **⭐ star** on GitHub!
-
-</div>
